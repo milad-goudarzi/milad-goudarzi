@@ -3,7 +3,7 @@
 I am currently pursuing my degree in C.S. at Politecnico di Milano university. I am highly interested in deep learning and its application in basically anything, however, my research is mainly focused on health care. I am passionate about studying state-of-the-art methods and how they manage to solve today's problems. Moreover, I have experience in working with different CNN architectures (VGG16, InceptionNet, ResNet, etc.), RNNs and especially LSTMs. Additionally, I am currently working on a new research paper, focusing on a new highly accurate segmentation method. My research interests are:
 
 - Medical image processing
-- Feature extraction using CNNs
+- Feature extraction using CNN
 - Computer vision
 - Segmentation
 
