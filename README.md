@@ -8,7 +8,7 @@ I am currently pursuing my degree in C.S. at Politecnico di Milano university. I
 - Segmentation
 
 Last but not least, I am open to new opportunities and any possible collaboration.
-The fastest way to reach me is by shooting me an email at milad.goudarzi@mail.polimi.it
+The fastest way to reach me is by shooting me an email at goudarzi98@yahoo.com
 
 <!--
 **milad-goudarzi/milad-goudarzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
