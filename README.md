@@ -1,6 +1,6 @@
 ### Master's student in computer science and engineering
 
-I am currently pursuing my degree in C.S. at Politecnico di Milano university. I'm an enthusiastic computer vision researcher and I prioritize writing readable and clean code in projects. I'm always eager to learn and I am looking for a position in an ever-growing team, in which I can not only put my knowledge into practice but also grow it through teamwork and research.
+I am currently pursuing my degree in C.S. at Politecnico di Milano university and have been awarded the prestigious Erasmus scholarship to experience a one-year exchange program at Tübingen University, Germany. I'm an enthusiastic computer vision researcher and I prioritize writing readable and clean code in projects. I'm always eager to learn and I am looking for a position in an ever-growing team, in which I can not only put my knowledge into practice but also grow it through teamwork and research.
 I am passionate about studying state-of-the-art methods and how they manage to solve today's problems. Additionally, I am currently working on a new research paper, focusing on a new highly accurate segmentation method. My research interests are:
 
 - Computer vision
