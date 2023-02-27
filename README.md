@@ -1,11 +1,11 @@
 ### Master's student in computer science and engineering
 
-I am currently pursuing my degree in C.S. at Politecnico di Milano university. I am highly interested in deep learning and its application in basically anything. I am passionate about studying state-of-the-art methods and how they manage to solve today's problems. Moreover, I have experience in working with different CNN architectures (VGG16, InceptionNet, ResNet, etc.), RNNs and especially LSTMs, and Bayesian Neural Networks. Additionally, I am currently working on a new research paper, focusing on a new highly accurate segmentation method. My research interests are:
+I am currently pursuing my degree in C.S. at Politecnico di Milano university. I'm an enthusiastic computer vision researcher and I prioritize writing readable and clean code in projects. I'm always eager to learn and I am looking for a position in an ever-growing team, in which I can not only put my knowledge into practice but also grow it through teamwork and research.
+I am passionate about studying state-of-the-art methods and how they manage to solve today's problems. Additionally, I am currently working on a new research paper, focusing on a new highly accurate segmentation method. My research interests are:
 
-- Medical image processing
 - Computer vision
-- Feature extraction using CNN
-- Segmentation
+- Medical image analysis
+- Feature engineering
 
 Last but not least, I am open to new opportunities and any possible collaboration.
 The fastest way to reach me is by shooting me an email at goudarzi98@yahoo.com
