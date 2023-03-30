@@ -8,7 +8,7 @@ I am passionate about studying state-of-the-art methods and how they manage to s
 - Feature engineering
 
 Last but not least, I am open to new opportunities and any possible collaboration.
-The fastest way to reach me is by shooting me an email at goudarzi98@yahoo.com
+The fastest way to reach me is by shooting me an email at milad.goudarzi@mail.polimi.it
 
 <!--
 **milad-goudarzi/milad-goudarzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
