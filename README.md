@@ -23,7 +23,10 @@ I am passionate about studying state-of-the-art methods and how they manage to s
 
 <br/>
 Last but not least, I am open to new opportunities and any possible collaboration.
-The fastest way to reach me is by shooting me an email at milad.goudarzi@mail.polimi.it <br/><br/>
+The fastest way to reach me is by shooting me an email.<br/><br/>
+
+[![E-MAIL](https://img.shields.io/static/v1.svg?label=send&message=milad.goudarzi@mail.polimi.it&color=red&logo=email&style=social)](mailto:milad.goudarzi@mail.polimi.it?subject=Hey!)
+<br/>
 
 
 [![](https://visitcount.itsvg.in/api?id=milad-goudarzi&icon=0&color=0)](https://visitcount.itsvg.in)
