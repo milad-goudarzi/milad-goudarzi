@@ -1,6 +1,6 @@
 ## Master's student in computer science and engineering
 
-I am currently pursuing the last year of my Master's degree in C.S. at Politecnico di Milano university and have been awarded the prestigious Erasmus scholarship to experience a one-year exchange program focused on Machine Learning at Tübingen University, Germany. I have won several autonomous driving competitions and Machine Learning competitions in Italy and Iran. 
+I graduated with a Master's in Computer Science from Politecnico di Milano and have been awarded the prestigious Erasmus scholarship to experience a one-year exchange program focused on Machine Learning at Tübingen University, Germany. I have won several autonomous driving competitions and Machine Learning competitions in Italy and Iran. 
 Additionally, I do research on the following topics:
 
 - Real-time object tracking
