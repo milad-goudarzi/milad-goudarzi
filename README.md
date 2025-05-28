@@ -1,4 +1,4 @@
-## Master's student in computer science and engineering
+## Data Scientist
 
 I graduated with a Master's in Computer Science from Politecnico di Milano and have been awarded the prestigious Erasmus scholarship to experience a one-year exchange program focused on Machine Learning at Tübingen University, Germany. I have won several autonomous driving competitions and Machine Learning competitions in Italy and Iran. 
 Additionally, I do research on the following topics:
@@ -8,8 +8,6 @@ Additionally, I do research on the following topics:
 - Robotics spatial perception
 - Feature engineering
 <hr>
-
-I'm always eager to learn and open to collaboration.
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladgoudarzi/)
