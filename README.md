@@ -1,6 +1,6 @@
-## Data Scientist
+## Profile
 
-I graduated with a Master's in Computer Science from Politecnico di Milano and have been awarded the prestigious Erasmus scholarship to experience a one-year exchange program focused on Machine Learning at Tübingen University, Germany. I have won several autonomous driving competitions and Machine Learning competitions in Italy and Iran. 
+I am currently a Data Analysis intern at Beko Europe. I graduated with a Master's in Computer Science from Politecnico di Milano and have been awarded the prestigious Erasmus scholarship to experience a one-year exchange program focused on Machine Learning at Tübingen University, Germany. I have won several autonomous driving and Machine Learning competitions in Italy and Iran. 
 Additionally, I do research on the following topics:
 
 - Real-time object tracking
