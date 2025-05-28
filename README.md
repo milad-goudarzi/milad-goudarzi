@@ -9,7 +9,7 @@ Additionally, I do research on the following topics:
 - Feature engineering
 <hr>
 
-I'm always eager to learn and I am looking for a position in an ever-growing team, in which I can not only put my knowledge into practice but also grow it through teamwork and research.
+I'm always eager to learn and open to collaboration.
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladgoudarzi/)
